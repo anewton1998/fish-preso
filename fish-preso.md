@@ -338,11 +338,15 @@ And https://fishshell.com
 
 ## About This Presentation
 
------------- ----------------------------------------
+------------ -----------------------------------------
 Author       Andy Newton
              https://masto.rootdc.xyz/@rcode3
+             @rcode3@masto.rootdc.xyz
+
+Presentation https://github.com/anewton1998/fish-preso
+Repository
 
 Presentation Patat
 Tool         Terminal-based presentation using Pandoc
              https://github.com/jaspervdj/patat
------------- ----------------------------------------
+------------ -----------------------------------------
